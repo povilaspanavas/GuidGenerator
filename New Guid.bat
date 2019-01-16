@@ -1,0 +1,1 @@
+GuidGenerator\bin\Debug\GuidGenerator.exe %1
